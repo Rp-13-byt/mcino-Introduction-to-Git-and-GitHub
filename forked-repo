@@ -1,0 +1,32 @@
+$ curl https://api.github.com/repos/Rp-13-byt/mcino-Introduction-to-Git-and-GitHub
+{
+  "id": 1673891461,
+  "node_id": "R_kgDOY8wShQ",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Rp-13-byt/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "Rp-13-byt",
+    "id": 139198305,
+    "html_url": "https://github.com/Rp-13-byt",
+    "type": "User"
+  },
+  "html_url": "https://github.com/Rp-13-byt/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/Rp-13-byt/mcino-Introduction-to-Git-and-GitHub",
+  "forks_url": "https://api.github.com/repos/Rp-13-byt/mcino-Introduction-to-Git-and-GitHub/forks",
+  "parent": {
+    "id": 1050225087,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 1050225087,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "default_branch": "main"
+}

@@ -1,0 +1,48 @@
+$ curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12437
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12437",
+  "id": 2898967980,
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12437",
+  "number": 12437,
+  "state": "open",
+  "title": "Bug fix revert",
+  "user": {
+    "login": "Rp-13-byt",
+    "id": 139198305,
+    "html_url": "https://github.com/Rp-13-byt"
+  },
+  "body": "Pull request for final project Task 8 by Rp-13-byt",
+  "head": {
+    "label": "Rp-13-byt:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "sha": "4302e53e62f5d4a74bb5f04efc0caafcb6855480",
+    "user": {
+      "login": "Rp-13-byt",
+      "id": 139198305,
+      "html_url": "https://github.com/Rp-13-byt"
+    },
+    "repo": {
+      "id": 1673891461,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "Rp-13-byt/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/Rp-13-byt/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "parent": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+    "repo": {
+      "id": 1050225087,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "fork": false
+    }
+  }
+}
